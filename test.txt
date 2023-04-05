@@ -1,5 +1,0 @@
-asset
-
-asset/12.jpg
-asset/13.jpg
-asset/14.jpg
